@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+.cdsrc.json
+.eslintrc
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/tasks.json

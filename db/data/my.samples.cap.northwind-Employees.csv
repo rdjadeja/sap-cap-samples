@@ -1,0 +1,6 @@
+ID,lastName,firstName,title,titleOfCourtesy,birthDate,hireDate,address,city,region,postalCode,country,homePhone,extension,notes,reportsTo,photoPath
+1,Peacock,James,Sales Manager,Mr.,1958-09-19,1993-06-08,5158 2nd Street,London,,L4 5HF,UK, +44 171 555 5555,1234, James Peacock,2,photos/james.jpg
+2,King,Robert,Sales Representative,Mr.,1961-05-29,1994-01-05,5005 W. Bellview St.,Denver,CO,80222,USA, +1 303 555 2134,5678, Robert King,1,photos/robert.jpg
+3,Callahan,Chris,Marketing Manager,Ms.,1968-03-12,1995-02-25,2345 Oak Drive,New Orleans,LA,70112,USA, +1 504 555 2020,2345, Chris Callahan,4,photos/chris.jpg
+4,Martin,Ann,Sales Representative,Ms.,1972-08-16,1996-06-15,1523 N. Main St.,Smalltown,AL,35401,USA, +1 205 555 3214,6789, Ann Martin,3,photos/ann.jpg
+5,Allen,Julie,Sales Representative,Ms.,1974-10-22,1996-09-29,8-2 Meiji-cho,Tokyo,,100-0000,Japan, +81 3-1234-5678,9101, Julie Allen,6,photos/julie.jpg

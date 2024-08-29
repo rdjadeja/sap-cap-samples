@@ -1,0 +1,6 @@
+ID,customer_ID,employee_ID,orderDate,requiredDate,shippedDate,freight,shipName,shipAddress,shipCity,shipRegion,shipPostalCode,shipCountry
+10248,ALFKI,5,1996-07-04,1996-08-01,1996-07-16,32.38,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France
+10249,ANATR,6,1996-07-05,1996-08-16,1996-07-10,11.61,Escuelas de los Padres,4/1,Barcelona,,08001,Spain
+10250,ANTON,4,1996-07-08,1996-08-05,1996-07-12,65.83,Antonio Moreno Taquería,Mataderos 131,Monterrey,,66666,Mexico
+10251,AROUT,3,1996-07-09,1996-08-06,1996-07-12,41.34,Around the Horn,120 Hanover Sq.,London,,WC2E 8RF,UK
+10252,BERGS,2,1996-07-10,1996-08-07,1996-07-12,51.30,Berglunds snabbköp,Birgittavägen 67,Upplands Väsby,,194 41,Sweden
